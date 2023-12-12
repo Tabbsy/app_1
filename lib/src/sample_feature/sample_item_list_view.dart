@@ -12,8 +12,8 @@ class SampleItemListView extends StatelessWidget {
       SampleItem(1),
       SampleItem(2),
       SampleItem(3),
-      // SampleItem(4),
-      // SampleItem(5),
+      SampleItem(4),
+      SampleItem(5),
     ],
   });
 
